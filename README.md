@@ -1,5 +1,9 @@
 <div align="center">
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                         HEADER                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=220&section=header&text=DEEPAK%20M%20V&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18"/>
 
 <br>
@@ -31,6 +35,10 @@
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      SYSTEM PROFILE                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -107,17 +115,34 @@ I'm passionate about building **full-stack applications, AI-powered systems, and
 
 I enjoy transforming ideas into working products — from enterprise platforms and AI systems to scalable backend applications.
 
+### 🎯 Current Focus
+
+- 🚀 Full-Stack Web Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Data Structures & Algorithms
+- ⚙️ Backend Engineering
+- ☁️ Cloud & Deployment
+- 🔐 Authentication & Secure Applications
+- 🗄️ Database Systems
+- 📦 Scalable Application Architecture
+
 </td>
 
 <td width="40%" valign="top">
 
 ```yaml
 name: Deepak M V
+
 role: Full Stack Developer
+
 education: B.E. ISE
+
 college: CMRIT
+
 location: Bengaluru, India
+
 graduation: 2027
+
 cgpa: 8.19
 
 focus:
@@ -126,3 +151,10 @@ focus:
   - Backend
   - DSA
   - Cloud
+  - Databases
+
+mindset:
+  - Build
+  - Learn
+  - Experiment
+  - Deploy

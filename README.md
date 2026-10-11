@@ -28,11 +28,7 @@
 <img src="https://img.shields.io/badge/📩%20EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=EF4444"/>
 </a>
 
-<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=deepak-05-g&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge"/>
-
-</div>
 
 ---
 
